@@ -1,1 +1,1 @@
-print = "eric"
+print='eric'
