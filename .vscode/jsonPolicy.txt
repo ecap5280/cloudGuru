@@ -31,7 +31,7 @@
     ]
 }
 
-
+bucket ARN arn:aws:s3:::nni-risk-management
 
 fa_omasginf03_nni-risk-management_rw
 
@@ -41,3 +41,5 @@ nni-business-segment    Operations Risk Management
 nni-s3-description  Storage for Enterprise Risk Management archive files
 nni-cost-center 91110
 nni-s3-bucket   nni-risk-management
+
+net use M: \\10.217.48.188\nni-risk-management
